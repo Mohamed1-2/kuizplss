@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Kuiz+</string>
-    <string name="time">30</string>
-    <string name="questions">questions</string>
-    <string name="End">End</string>
-    <string name="Start_Quiz">start_Quiz</string>
-    <string name="timeout">Time Up</string>
-
-</resources>
